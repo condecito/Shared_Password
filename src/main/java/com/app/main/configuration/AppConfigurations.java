@@ -1,6 +1,6 @@
 package com.app.main.configuration;
 
-import com.app.main.keystore.ValidatorKeyStore;
+import com.app.main.criptograpy.ValidatorKeyStore;
 
 import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.context.annotation.Bean;

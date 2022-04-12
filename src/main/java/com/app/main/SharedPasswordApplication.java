@@ -4,9 +4,9 @@ import java.security.PrivateKey;
 import java.security.PublicKey;
 import java.util.Base64;
 
-import com.app.main.keystore.KeyGenerator;
-import com.app.main.keystore.MessageEncript;
-import com.app.main.keystore.ValidatorKeyStore;
+import com.app.main.criptograpy.KeyGenerator;
+import com.app.main.criptograpy.MessageEncript;
+import com.app.main.criptograpy.ValidatorKeyStore;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
